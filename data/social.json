@@ -1,12 +1,27 @@
 [
     {
-        "name": "Github",
+        "name": "WhatsApp",
         "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "image": "images/social/whatsapp.svg"
+    },
+{
+        "name": "Facebook",
+        "link": "https://www.facebook.com/ohmjetdotcom",
+        "image": "images/social/facebook.svg"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/ohmjet",
         "image": "images/social/github.svg"
+    },
+{
+        "name": "Instagram",
+        "link": "https://instagram.com/ohmjetdotcom",
+        "image": "images/social/instagram.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://x.com/ohmjetdotcom",
         "image": "images/social/twitter.svg"
     }
 ]

@@ -1,13 +1,28 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Smart EV Charger",
+    "description": "Host don't need to pay for hardware. Only 30% of revenue sharing",
+    "image": "images/features/9238375_charging_station_ev_electric_car_icon.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Software for hosts",
+    "description": "For management and income control. Do need tecnical skills",
+    "image": "images/features/1743800_api_app_application_development_software_icon.svg"
+  },
+  {
+    "title": "App for drivers",
+    "description": "iOS and Android application for driver and hosts.",
+    "image": "images/features/9238379_charging_station_charger_energy_electric_icon.svg"
+  },
+  {
+    "title": "Contactless",
+    "description": "Charge and drive. Do not reqire bank card for charging.",
+    "image": "images/features/9238392_ev_charging_station_electric_car_icon.svg"
+  },
+  {
+    "title": "Customer Care",
+    "description": "Assistantce in your lovely messenger",
+    "image": "images/features/6457560_24 hours_24_7_customer_delivery_service_icon.svg"
   },
   {
     "title": "Tax Compliance",
