@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "OhmJet"
+title = "Hugo Serif Theme"
 
 [module]
   [module.hugoVersion]
@@ -13,7 +13,7 @@ title = "OhmJet"
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = ""
   google_tag_manager_id = ""
-  favicon = "favicon-32x32.png"
+  favicon = "favicon-32x32.svg"
 
   [params.homepage]
     show_contact_box = true      # show / hide the contaxt box on the homepage
@@ -28,12 +28,12 @@ title = "OhmJet"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
-    google_fonts = 'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'
-    heading = "Poppins"
-    base = "Poppins"
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
+    heading = "Playfair Display"
+    base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#3CB371"
+    primary = "#f24088"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -56,7 +56,7 @@ title = "OhmJet"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "For hosts"
+    name = "Services"
     url = "/services/"
     weight = 1
 
@@ -71,15 +71,9 @@ title = "OhmJet"
     weight = 3
 
   [[menu.main]]
-    name = "Blog"
-    url = "https://blog.ohmjet.com"
-    weight = 4
-
-
-  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
 
   # Footer Menu
   [[menu.footer]]
@@ -90,10 +84,4 @@ title = "OhmJet"
   [[menu.footer]]
     name = "Contact"
     url = "/contact/"
-    weight = 3
-
-  [[menu.footer]]
-    name = "Community"
-    url = "/chat"
     weight = 2
-theme = 'hugo'
