@@ -1,83 +1,63 @@
 ---
-title: "Mergers"
+title: "Booking"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
 weight: 4
 ---
 
-Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.
+Earn More from Your Rental Property with OhmJet's EV Charging Solution
+
 <!--more-->
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+Property owners on platforms like Booking.com, Airbnb, and others are constantly seeking ways to make their listings more attractive to potential guests. As electric vehicles (EVs) become more popular, offering an EV charger has emerged as a valuable amenity. By partnering with OhmJet, property owners can easily provide this feature and earn extra income from their electrical current. Here’s how it works.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Why Offer EV Charging?
+### Attract More Guests
+As the number of travelers driving electric vehicles increases, so does the demand for convenient charging options. By providing an EV charger, property owners can attract a wider range of guests who prioritize eco-friendly travel options.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+### Increase Earnings
+OhmJet enables property owners to offer a valuable amenity and earn money from the electricity used by guests. This dual benefit enhances the property's appeal and increases the owner's income.
 
-## Relevance
+## What is OhmJet?
+OhmJet is a community-based electric vehicle charging ecosystem designed to make EV charging affordable and scalable. They provide free chargers to property owners and ensure a seamless, user-friendly experience for both hosts and guests.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+## How OhmJet Works
+### Free Charger Provision
+OhmJet offers free EV chargers to property owners who meet their straightforward requirements. There's no need to worry about the cost of the equipment—OhmJet takes care of it.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+### Easy Setup
+Setting up the charger is incredibly easy. OhmJet provides all the necessary components for a simple installation, with no technical expertise required.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### Daily Payouts
+Property owners receive daily payouts directly into their bank accounts from each charging session, providing a hassle-free way to earn extra income from their property.
 
-## Faithful Representation
+### Mobile App for Hosts and Guests
+OhmJet's mobile app allows guests to easily locate and use the charger. For property owners, the app offers easy management of the charging station, ensuring everything runs smoothly.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Benefits of OhmJet for Property Owners
+- **Attract More Guests:** Stand out by offering EV charging.
+- **Earn Extra Income:** Turn electrical current into money.
+- **Easy Installation:** No technical knowledge needed.
+- **Comprehensive Support:** 24/7 customer support for any issues.
+- **Analytics and Optimization:** Use OhmJet’s analytics to optimize energy consumption and improve efficiency.
 
-## Enhancing Qualitative Characteristics
+## How to Get Started with OhmJet
+1. **Sign Up:** Register as a host on OhmJet’s website.
+2. **Install the Charger:** Receive and set up the free EV charger at your property.
+3. **Promote the Amenity:** Highlight the availability of EV charging in your listing on Booking.com, Airbnb, and other platforms.
+4. **Start Earning:** Earn money from every charging session.
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## A Successful Integration with OhmJet
+Property owners who have integrated OhmJet’s EV chargers often see an increase in bookings and positive feedback from guests. Travelers appreciate the convenience of being able to charge their vehicles overnight, while owners benefit from the additional income generated by the electricity used. It’s a seamless and rewarding addition to the hosting experience.
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## Conclusion
+Property owners looking to enhance their rental’s appeal and earn extra income should consider joining the OhmJet community. Providing an EV charger not only attracts more guests but also turns electrical current into a source of revenue. It's a smart investment that pays off in multiple ways.
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+**Join OhmJet and start earning more from your rental property today!** [Contact Us](/contact/)
 
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.

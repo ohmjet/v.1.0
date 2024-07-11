@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# EV charging should be common.
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+OhmJet enables you to seamlessly embed EV chargers into your business and start earning money from each charging session. Our goal is to simplify the adoption of electric vehicles, making it accessible for everyone.

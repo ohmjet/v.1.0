@@ -1,83 +1,71 @@
 ---
-title: "Accounting"
+title: "Car rental"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Enhance Your Car Rental Service with OhmJet's EV Charging Ecosystem.
 <!--more-->
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Car rental services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+## Introduction
+As the world transitions towards sustainable transportation, the demand for electric vehicles (EVs) is rapidly increasing. Car rental services have a unique opportunity to stay ahead of the curve by integrating EVs into their fleets. However, to provide a seamless experience for customers, access to reliable charging infrastructure is essential. This is where OhmJet comes in.
 
-Financial accounting and financial reporting are often used as synonyms.
+## What is OhmJet?
+OhmJet is a community-based electric vehicle charging ecosystem established in 2024 in the Western Balkans. Our mission is to make EV charging more affordable and scalable. By combining financial technology and electronic engineering, we offer a seamless, user-friendly charging experience.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Why Car Rental Services Should Choose OhmJet
+### Seamless Integration
+With OhmJet, car rental services can offer continuous steering with plenty of chargers across travel destinations. Our ecosystem ensures that your customers always have access to reliable charging points, enhancing their rental experience.
 
-## Relevance
+### Key Benefits
+- **Free Chargers:** We provide EV chargers to our partners at no cost.
+- **Wide Coverage:** Extensive network of charging stations across multiple countries.
+- **Easy Setup:** No technical expertise required to install and manage chargers.
+- **Daily Payouts:** Receive earnings directly into your bank account from each charging point.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+## OhmJet’s Offerings
+### Free Charger Provision
+OhmJet provides EV chargers to car rental services for free. By integrating our chargers, you can attract more customers who prefer or own electric vehicles.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+### Mobile App for Hosts and Drivers
+Our mobile app allows rental services to manage charging stations effortlessly. Customers can easily locate OhmJet chargers, ensuring they have a seamless travel experience.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### AI-Based Vehicle Identification
+Our advanced AI technology ensures efficient vehicle identification and management, optimizing the charging process.
 
-## Faithful Representation
+### 24/7 Customer Support
+We offer round-the-clock customer support to assist with any issues, ensuring a smooth experience for both rental services and their customers.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## How to Integrate OhmJet with Your Car Rental Service
+### Simple Steps to Get Started
+1. **Sign Up:** Register your car rental service on our website.
+2. **Install Chargers:** Receive and install the free EV chargers at your locations.
+3. **Promote:** Inform your customers about the availability of EV chargers.
+4. **Earn:** Start earning from each charging session.
 
-## Enhancing Qualitative Characteristics
+### Benefits for Your Customers
+- **Reliable Charging:** Always available chargers at convenient locations.
+- **Contactless Payments:** Multiple payment options with no hidden fees.
+- **Enhanced Travel Experience:** Continuous steering with plenty of charging points across travel destinations.
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## Operating Regions
+OhmJet is headquartered in Slovenia and currently operates in:
+- 🇸🇮 Slovenia
+- 🇦🇱 Albania
+- 🇲🇰 North Macedonia
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+We are expanding to:
+- 🇧🇬 Bulgaria
+- 🇭🇷 Croatia
+- 🇧🇦 Bosnia and Herzegovina
+- 🇽🇰 Kosovo
+- 🇲🇪 Montenegro
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+## Conclusion
+Integrate OhmJet’s EV charging infrastructure into your car rental service and provide your customers with a seamless and sustainable travel experience. Join the OhmJet community today and stay ahead in the evolving landscape of transportation.
 
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+**Enhance your car rental service with OhmJet's EV charging ecosystem!** [Contact Us](#)

@@ -1,83 +1,74 @@
 ---
-title: "Superannuation"
+title: "HoReCa"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 weight: 5
 ---
 
-We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.
+Enhance Your HoReCa Business with OhmJet's EV Charging Solution
 <!--more-->
+Hotels, restaurants, cafes, and bars (HoReCa) are constantly seeking ways to attract more visitors and enhance their customer experience. As electric vehicles (EVs) become more popular, providing an EV charger is emerging as a valuable amenity. By partnering with OhmJet, HoReCa businesses can easily offer this feature, attracting more visitors and earning extra income from their electrical current. Here’s why it's beneficial and how to get started.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+## Why Offer EV Charging?
+### Attract More Visitors
+As the number of electric vehicle drivers grows, so does the demand for convenient charging options. By providing an EV charger, HoReCa businesses can attract a broader range of customers who prioritize eco-friendly travel and convenience.
 
-Financial accounting and financial reporting are often used as synonyms.
+### Enhance Customer Experience
+Offering an EV charger can significantly improve the customer experience. Visitors can enjoy their meal or stay while knowing their vehicle is charging. This added convenience can lead to longer visits and increased customer satisfaction.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+### Increase Earnings
+OhmJet enables businesses to offer a valuable amenity while earning money from the electricity used by customers. This dual benefit not only enhances the business's appeal but also increases revenue.
 
-## Relevance
+## Pros of Having an EV Charger
+- **Increased Foot Traffic:** Attract EV drivers looking for charging options.
+- **Enhanced Reputation:** Position your business as eco-friendly and forward-thinking.
+- **Customer Convenience:** Provide a valuable service that enhances the customer experience.
+- **Additional Revenue:** Earn extra income from the electricity used by customers.
+- **Future-Proofing:** Stay ahead of the trend as EV charging becomes a common expectation.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+## Cons of Not Having an EV Charger
+- **Lost Customers:** Miss out on attracting EV drivers who might choose competitors with charging options.
+- **Outdated Image:** Risk appearing out-of-touch with modern, eco-friendly practices.
+- **Decreased Convenience:** Potentially inconvenience customers who need to find alternative charging options.
+- **Reduced Stay Duration:** Customers may leave sooner if they need to charge their vehicle elsewhere.
+- **Missed Revenue Opportunities:** Lose out on additional income from providing charging services.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+## What is OhmJet?
+OhmJet is a community-based electric vehicle charging ecosystem designed to make EV charging affordable and scalable. They provide free chargers to businesses and ensure a seamless, user-friendly experience for both owners and visitors.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## How OhmJet Works
+### Free Charger Provision
+OhmJet offers free EV chargers to HoReCa businesses that meet their straightforward requirements. There’s no need to worry about the cost of the equipment—OhmJet takes care of it.
 
-## Faithful Representation
+### Easy Setup
+Setting up the charger is incredibly easy. OhmJet provides all the necessary components for a simple installation, with no technical expertise required.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+### Daily Payouts
+Businesses receive daily payouts directly into their bank accounts from each charging session, providing a hassle-free way to earn extra income from their property.
 
-## Enhancing Qualitative Characteristics
+### Mobile App for Hosts and Guests
+OhmJet’s mobile app allows customers to easily locate and use the charger. For business owners, the app offers easy management of the charging station, ensuring smooth operations.
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+## Benefits of OhmJet for HoReCa Businesses
+- **Attract More Visitors:** Stand out by offering EV charging.
+- **Earn Extra Income:** Turn electrical current into money.
+- **Easy Installation:** No technical knowledge needed.
+- **Comprehensive Support:** 24/7 customer support for any issues.
+- **Analytics and Optimization:** Use OhmJet’s analytics to optimize energy consumption and improve efficiency.
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## How to Get Started with OhmJet
+1. **Sign Up:** Register as a host on OhmJet’s website.
+2. **Install the Charger:** Receive and set up the free EV charger at your business.
+3. **Promote the Amenity:** Highlight the availability of EV charging in your marketing materials and on platforms like Google Maps, TripAdvisor, etc.
+4. **Start Earning:** Earn money from every charging session.
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+## A Successful Integration with OhmJet
+HoReCa businesses that have integrated OhmJet’s EV chargers often see an increase in visitors and positive feedback. Customers appreciate the convenience of charging their vehicles while enjoying their meal or stay, and businesses benefit from the additional income generated by the electricity used. It’s a seamless and rewarding addition to any HoReCa business.
 
----
+## Conclusion
+HoReCa businesses looking to enhance their customer experience and earn extra income should consider joining the OhmJet community. Providing an EV charger not only attracts more visitors but also turns electrical current into a source of revenue. It's a smart investment that pays off in multiple ways.
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+**Join OhmJet and start earning more from your HoReCa business today!** [Contact Us](#)
