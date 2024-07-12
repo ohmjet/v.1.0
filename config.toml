@@ -56,7 +56,7 @@ title = "OhmJet"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "For hosts"
+    name = "Host a charger"
     url = "/services/"
     weight = 1
 
