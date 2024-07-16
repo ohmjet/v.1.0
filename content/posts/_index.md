@@ -6,6 +6,6 @@ intro_image_absolute_offset: "auto auto -148px -102px"
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team of Your Freinds
+# Check our latest insights and customer stories to learn more about OhmJet
 
 Our team of qualified accountants can help your business at any stage. 
