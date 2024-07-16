@@ -57,7 +57,7 @@ title = "OhmJet"
   # Main Menu
 
  [[menu.main]]
-    name = "Homer"
+    name = "Home"
     url = "/"
     weight = 1
 
