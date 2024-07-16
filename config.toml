@@ -55,31 +55,41 @@ title = "OhmJet"
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Host a charger"
-    url = "/services/"
+
+ [[menu.main]]
+    name = "Homer"
+    url = "/"
     weight = 1
 
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
+    name = "Services"
+    url = "/services/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "How it works"
+    url = "/how-ohmjet-works/"
     weight = 3
 
   [[menu.main]]
-    name = "Blog"
-    url = "https://blog.ohmjet.com"
+    name = "About us"
+    url = "/about/"
     weight = 4
 
+  [[menu.main]]
+    name = "For Businesses"
+    url = "/for-businesses/"
+    weight = 5
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 5
+
+[[menu.main]]
+    name = "Blog"
+    url = "https://blog.ohmjet.com"
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]
