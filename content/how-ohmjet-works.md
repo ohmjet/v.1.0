@@ -1,22 +1,22 @@
 ---
-title: 'About'
+title: 'How it works'
 date: 2018-02-22T17:01:34+07:00
 ---
 
 OhmJet is community based electric vehicle charging ecosystem. The company was established in 2024 year in Western Balkans. Our goal is to make EV charging more affordable and scalable. The company was founded by programmers, engineers, fintech, and marketing professionals who could not imagine life without electric vehicles. So we have combined financial technology and electronic engineering under the one hood.
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/images/woman-charging-electro-car-by-her-house.jpg)
 
-## What does OhmJet offer to market? 
+## For Drivers  
 
 Our company does not resell the equipment. We give charger to our hosts for free. Only one rule - Follow requirements and earn money. We are a partner for customers who would like to get revenue from electricity at Home, Restaurants, Bar, Cafe, AirBnb, Booking, Parking slot and improve its energy efficiency.
  <!-- [fuit flexit et](#vexant-achivi) hic die solido, gloria? -->
 
-1. Open source OCPP 2.0.1 and 1.6 protocol implementation 
-2. Mobile app for hosts and drivers (Charging Station Managment)
-3. EV charger appliance delivery 
-4. Simple and easy setup without any technical knowledges needing
-5. Daily payout from each charger point to Host direct  bank account 
+1. Download Mobile App
+2. Purchase ticket: Daily, Weekly, Monthly
+3. Plug your car to charging station
+4. Read QR and choose range
+5. Charge and Go 
 
 Our target is efficient support for each charging point to optimize its performance. With help of our community and green energy companies OhmJet provides analytics for hosts and will suggest improvements for cunsuming as much self-generated power as possible. Lets reduce CO2 emission.
 We would like to reduce cost of each kWh per our for host and earn as much as possible money from each charging session. 
@@ -33,7 +33,7 @@ We would like to reduce cost of each kWh per our for host and earn as much as po
 🇲🇰 North Macedonia (done)
 
 
-## What can you do with OhmJet?
+## For Hosts 
 
 You can get new customer segments with us. How many electric vehicle drivers avoid your listing at AirBnB or Google Maps when they check out that you don’t have an EV charger? 
 Imagine, today on all platforms you can add a new amenity and it would be an EV charger for free. You don’t need to take payment from guests and support this experience. Give it to Ohmjet 
