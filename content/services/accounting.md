@@ -9,7 +9,7 @@ weight: 1
 Enhance Your Car Rental Service with OhmJet's EV Charging Ecosystem.
 <!--more-->
 
-![Car rental services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Car rental services](/images/OhmJet.jpg)
 
 ## Introduction
 As the world transitions towards sustainable transportation, the demand for electric vehicles (EVs) is rapidly increasing. Car rental services have a unique opportunity to stay ahead of the curve by integrating EVs into their fleets. However, to provide a seamless experience for customers, access to reliable charging infrastructure is essential. This is where OhmJet comes in.

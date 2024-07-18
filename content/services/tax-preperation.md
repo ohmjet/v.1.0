@@ -11,7 +11,7 @@ summary: "Enhance Your Parking Facility with OhmJet's EV Charging Solution
 Enhance Your Parking Facility with OhmJet's EV Charging Solution
 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/close-up-electric-car-france.jpg)
 
 ## Introduction
 Parking facility owners and municipalities have a unique opportunity to attract more visitors and support eco-friendly initiatives by installing EV chargers. OhmJet offers a competitive, easy-to-implement solution that requires no technical expertise. Here’s why adding OhmJet EV chargers is a smart move for your parking facility.

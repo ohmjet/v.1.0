@@ -9,7 +9,7 @@ summary: "Revolutionize Your Logistics with OhmJet's EV Charging Platform"
 
 Revolutionize Your Logistics with OhmJet's EV Charging Platform.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/deliveryman-giving-gift-box-folder-woman.jpg)
 
 ## Introduction
 In the fast-paced world of logistics and package delivery, efficiency and sustainability are key to staying competitive. As the industry shifts towards greener solutions, electric vehicles (EVs) are becoming increasingly popular. To support this transition, a reliable and extensive charging infrastructure is essential. OhmJet offers the perfect solution for cargo and package delivery companies looking to enhance their operations and reduce their carbon footprint.

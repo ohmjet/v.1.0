@@ -10,7 +10,7 @@ Earn More from Your Airbnb Property with OhmJet's EV Charging Solution
 <!--more-->
 As an Airbnb host, You are always looking for ways to make your property more attractive to potential guests. With the rise of electric vehicles (EVs), providing an EV charger has become a valuable amenity. Thanks to OhmJet, You can offer this feature easily and earn extra income from my electrical current. Here's how you can do it too.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/airbnb-host-welcoming-guests.jpg)
 
 ## Why Offer EV Charging?
 ### Attract More Guests

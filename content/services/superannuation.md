@@ -10,7 +10,7 @@ Enhance Your HoReCa Business with OhmJet's EV Charging Solution
 <!--more-->
 Hotels, restaurants, cafes, and bars (HoReCa) are constantly seeking ways to attract more visitors and enhance their customer experience. As electric vehicles (EVs) become more popular, providing an EV charger is emerging as a valuable amenity. By partnering with OhmJet, HoReCa businesses can easily offer this feature, attracting more visitors and earning extra income from their electrical current. Here’s why it's beneficial and how to get started.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/young-woman-eating-croissants-cafe.jpg)
 
 ## Why Offer EV Charging?
 ### Attract More Visitors

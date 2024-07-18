@@ -11,7 +11,7 @@ Earn More from Your Rental Property with OhmJet's EV Charging Solution
 <!--more-->
 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/airbnb-host-welcoming-guests.jpg)
 
 Property owners on platforms like Booking.com, Airbnb, and others are constantly seeking ways to make their listings more attractive to potential guests. As electric vehicles (EVs) become more popular, offering an EV charger has emerged as a valuable amenity. By partnering with OhmJet, property owners can easily provide this feature and earn extra income from their electrical current. Here’s how it works.
 
