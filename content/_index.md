@@ -8,6 +8,6 @@ intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positi
 intro_image_hide_on_mobile: true
 ---
 
-# Earn money with Electric Vehicle (EV) chargers 🔋
+# Get Income from EV Car Charging Stations 🔋
 
 Turn your electrical current into money with OhmJet's ecosystem. Easy to use and simple to manage.
