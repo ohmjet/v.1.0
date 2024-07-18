@@ -62,8 +62,8 @@ title = "OhmJet"
     weight = 1
 
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Host a Station"
+    url = "/host-a-station/"
     weight = 2
 
   [[menu.main]]
