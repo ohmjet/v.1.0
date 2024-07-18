@@ -17,7 +17,7 @@ title = "OhmJet"
 
   [params.homepage]
     show_contact_box = true      # show / hide the contaxt box on the homepage
-    show_host-a-station_button = false # show / hide the "view all host-a-station" button
+    show_services = false # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
@@ -44,7 +44,7 @@ title = "OhmJet"
     meta_twitter_creator = "@zerostaticio"
     meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
-  [params.host-a-station]
+  [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
 
   [params.team]
