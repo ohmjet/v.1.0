@@ -11,3 +11,4 @@ intro_image_hide_on_mobile: true
 # Get Income from EV Car Charging Stations 🔋
 
 Turn your electrical current into money with OhmJet's ecosystem. Easy to use and simple to manage.
+[Become a host](https://link-url-here.org)
