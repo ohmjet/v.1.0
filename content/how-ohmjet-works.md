@@ -14,7 +14,7 @@ We offer a simple and clear EV charging experience.  Use our host offers listing
  <!-- [fuit flexit et](#vexant-achivi) hic die solido, gloria? -->
 
 1. Download Mobile App
-2. Top-up your Ohmjet balance
+2. Top-up your OhmJet balance
 3. Plug your car to charging station
 4. Read QR and calculate charge times
 5. Walk, Eat, Sleep and Go 
@@ -22,8 +22,8 @@ We offer a simple and clear EV charging experience.  Use our host offers listing
 You will be able to use a contactless experience. It means that we don't need to get your payment before battery charging. Our major sense is "Charge your car and Go". It means that you don't need start each charging seesion from using App. Just plug your car and wait for notification about full gage charging. 
 
 ## What countiries does Ohmjet operate?
-🇸🇮 Slovenia (HQ)\ May 2025 
-🇦🇱 Albania (done)\ May 2025 
+🇸🇮 Slovenia (HQ) May 2025 \
+🇦🇱 Albania (done)May 2025 \
 🇧🇬 Bulgaria(tbd)\ 
 🇭🇷 Croatia (tbd)\
 🇧🇦 Bosnia and Herzegovina (tbd)\
@@ -34,12 +34,12 @@ You will be able to use a contactless experience. It means that we don't need to
 
 ## For Hosts 
 
-We offer our host hardware, software, and full maintenance of charging stations. Let your guest know that you have EV charger and be sure to get additional income with Ohmejt. 
+We offer our host hardware, software, and full maintenance of charging stations. Let your guest know that you have EV charger and be sure to get additional income with OhmJet. 
 
 How to become a host:
 
 1. You should request your host account by filling out this [form](https://#)
-2. Recieve OhmJet's tema the final decision with buisness model offer
+2. Recieve OhmJet's team final decision with buisness model offer
 3. Accept buisness model offer
 4. Wait for hardware delivery 
 5. Install device 
@@ -49,7 +49,7 @@ How to become a host:
 
 
 
-Ohmjet has flexible business models tailored to your specific needs, including subscription services, revenue share hybrid ownership models, host-owned models, and more.
+OhmJet has flexible business models tailored to your specific needs, including subscription services, revenue share hybrid ownership models, host-owned models, and more.
 
 
 
