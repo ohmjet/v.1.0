@@ -9,6 +9,12 @@ Are you a OhmJet installer, partner or station owner who needs help now? Please 
 Are you an EV driver and need assistance? Please call us on one of the numbers below.
 
 
+> 24/7 Text us to messengers:\
+Telegram:\
+Whatsapp:\
+Messenger:
+
+
 | Day       | Opening Hours   |
 | --------- | --------------- |
 | Tuesday   | 8:30am - 5:00pm |
@@ -19,7 +25,4 @@ Are you an EV driver and need assistance? Please call us on one of the numbers b
 | Sunday    | Closed          |
 
 
-> 24/7 Text us to messengers:\
-Telegram:\
-Whatsapp:\
-Messenger:
+
