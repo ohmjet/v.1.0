@@ -11,8 +11,8 @@ title = "OhmJet"
 
 [params]
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
-  google_analytics_id = ""
-  google_tag_manager_id = ""
+  google_analytics_id = "8511238915"
+  google_tag_manager_id = "G-W70H9PDV4M"
   favicon = "favicon-32x32.png"
 
   [params.homepage]
