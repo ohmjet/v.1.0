@@ -43,7 +43,82 @@ It could be the first step in a buisness establishing. For us it works. Everytim
 
 
 # Step-by-step guide How to launch your website 
-Coming soon...
+
+1. Find and register doamin name that fits your brand. In our case it is ohmjet.com . 
+a) Follow to https://www.godaddy.com/
+b) Create account
+c) Purchuse your domain and be happy.
+
+2. Find out Hugo ducumentation by following this link https://gohugo.io/documentation/ 
+We want to save your time and share with steps that were work for us :
+
+Ex. for MacOS 
+a) You should install brew if you don't have it. Please use this link and be ready https://brew.sh/ Homebrew is a free and open-source package manager for macOS and Linux. 
+b) To install the extended edition of Hugo Use this SSH comand.
+
+```
+brew install hugo
+
+```
+c) Verify that you have installed Hugo v0.112.0 or later.
+
+```
+hugo version
+
+```
+b) Run these commands to create a Hugo site . The next section provides an explanation of each command.  
+
+```
+hugo new site quickstart
+
+```
+quickstaet it the name of your project (website). In our case it is OhmJet
+
+
+c) Follow to your site folder 
+
+```
+cd quickstart
+
+```
+
+d) Install your theme. In our case it was "hugo-serif-theme" . And at first we did mistake and we didn't fork it. Our suggestion if you need to make changes in theme such as add cookies manager or anything else you should frork theme at first and only after that deploy it from your repository.
+
+You should have git https://git-scm.com/  installed before follow next steps 
+
+```
+git init
+
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+
+echo "theme = 'ananke'" >> hugo.toml
+
+```
+For out project we use this template https://www.zerostatic.io/theme/hugo-serif/  . It is totally free and Open Source. So you can choose it.  But in command example we used Ananke theme.
+
+
+e) Run Hugo project on your local machine
+
+
+```
+hugo server
+
+```
+
+That is it for HUGO local machime setup. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
