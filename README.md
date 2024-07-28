@@ -4,7 +4,7 @@ OhmJet website powered by Hugo
 
 # Intro
 
-The main reason why we decided to public this repo is that to help you your first steps for startup developing. 
+The main reason we decided to publish this repo is that we want to show you how simple it is to build your website from scratch without technical knowledge.
 
 The main goal for site was to create if from scratch and host it for free.  You can see here all steps from domain registration to static files hosting. 
 
