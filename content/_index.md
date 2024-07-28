@@ -1,3 +1,4 @@
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="2b41a0f4-1ef6-488d-b502-33d5e9c1324c" data-blockingmode="auto" type="text/javascript"></script>
 ---
 title: 'Homepage'
 meta_title: 'OhmJet | Residential EV Chargers '
@@ -12,3 +13,5 @@ intro_image_hide_on_mobile: true
 
 Grow your revenue with OhmJet's Charging Stations Ecosystem. Easy to use and simple to manage.
 [Become a host](https://link-url-here.org)
+
+
