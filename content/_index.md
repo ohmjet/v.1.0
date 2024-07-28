@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 
 # Get Income from EV Car Charging Stations 🔋
 
-Grow your income with OhmJet's Charging Stations Ecosystem. Easy to use and simple to manage. \\
+Grow your income with OhmJet's Charging Stations Ecosystem. Easy to use and simple to manage. \
 [Become a host](https://typebot.co/ohmjet)
 
 
