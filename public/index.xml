@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Hugo Serif Theme</title>
+    <title>Homepage on OhmJet</title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Homepage on Hugo Serif Theme</description>
+    <description>Recent content in Homepage on OhmJet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2024 12:24:08 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Peter Van Eijk</title>
+      <title>Dato Kshutashvili</title>
       <link>//localhost:1313/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>//localhost:1313/team/peter-van-eijk/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
-      <title>Accounting</title>
+      <title>Car rental</title>
       <link>//localhost:1313/services/accounting/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       <guid>//localhost:1313/services/accounting/</guid>
-      <description>&lt;p&gt;Financial accounting (or financial accountancy) is the field of accounting concerned with the &lt;strong&gt;summary, analysis and reporting&lt;/strong&gt; of financial transactions related to a business.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Enhance Your Car Rental Service with OhmJet&amp;rsquo;s EV Charging Ecosystem.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Business Advisory</title>
+      <title>Delivery services</title>
       <link>//localhost:1313/services/business-advisory/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       <guid>//localhost:1313/services/business-advisory/</guid>
-      <description>Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses.</description>
+      <description>Revolutionize Your Logistics with OhmJet&amp;rsquo;s EV Charging Platform</description>
     </item>
     <item>
       <title>Sage Kirk</title>
@@ -51,11 +51,11 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     <item>
-      <title>Business Sales</title>
+      <title>AirBnB</title>
       <link>//localhost:1313/services/business-sales/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       <guid>//localhost:1313/services/business-sales/</guid>
-      <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Earn More from Your Airbnb Property with OhmJet&amp;rsquo;s EV Charging Solution&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tamara Ells</title>
@@ -65,25 +65,25 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     <item>
-      <title>Mergers</title>
+      <title>Booking</title>
       <link>//localhost:1313/services/mergers/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       <guid>//localhost:1313/services/mergers/</guid>
-      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Earn More from Your Rental Property with OhmJet&amp;rsquo;s EV Charging Solution&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Superannuation</title>
+      <title>HoReCa</title>
       <link>//localhost:1313/services/superannuation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       <guid>//localhost:1313/services/superannuation/</guid>
-      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Enhance Your HoReCa Business with OhmJet&amp;rsquo;s EV Charging Solution&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tax Preparation</title>
+      <title>Public and private parkings</title>
       <link>//localhost:1313/services/tax-preperation/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       <guid>//localhost:1313/services/tax-preperation/</guid>
-      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
+      <description>Enhance Your Parking Facility with OhmJet&amp;rsquo;s EV Charging Solution .</description>
     </item>
     <item>
       <title>Hello World</title>
@@ -97,14 +97,21 @@
       <link>//localhost:1313/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.&#xA;Ne verba patulosque numen vix libet Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?&#xA;Cum det dixit Parcarum qui spemque est Exit ex huic Quod consiste agitataque claustraque vicina videt lacertis Loquor videt Ardua non igne caelesti coniugis cognovi diversorum Per nunc pariterque saeva vindicet Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus.</description>
+      <description>OhmJet is community based electric vehicle charging ecosystem. The company was established in 2024 year in Western Balkans. Our goal is to make EV charging more affordable and scalable. The company was founded by programmers, engineers, fintech, and marketing professionals who could not imagine life without electric vehicles. So we have combined financial technology and electronic engineering under the one hood.&#xA;What does OhmJet offer to market? Our company does not resell the equipment.</description>
     </item>
     <item>
       <title>Contact</title>
       <link>//localhost:1313/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>//localhost:1313/contact/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.&#xA;Day Opening Hours Tuesday 8:30am - 5:00pm Wednesday 8:30am - 5:00pm Thursday 8:30am - 5:00pm Friday 8:30am - 5:00pm Saturday 10:am - 4:00pm Sunday Closed </description>
+      <description>Are you a OhmJet installer, partner or station owner who needs help now? Please raise your question here or call us on one of the numbers below.&#xA;Are you an EV driver and need assistance? Please call us on one of the numbers below.&#xA;24/7 Text us to messengers:&#xA;Telegram:&#xA;Whatsapp:&#xA;Messenger:&#xA;Day Opening Hours Tuesday 8:30am - 5:00pm Wednesday 8:30am - 5:00pm Thursday 8:30am - 5:00pm Friday 8:30am - 5:00pm Saturday 10:am - 4:00pm Sunday Closed </description>
+    </item>
+    <item>
+      <title>How it works</title>
+      <link>//localhost:1313/how-ohmjet-works/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <guid>//localhost:1313/how-ohmjet-works/</guid>
+      <description>Our mission is a boost EV&amp;rsquo;s Residential Charging market. Instead of developing a massive fast charging stations network, we are working on our own community-based EV charging ecosystem.&#xA;For Drivers We offer a simple and clear EV charging experience. Use our host offers listing to find the best spot for your final destination. Book a table, apartment, or parking slot, and be sure that your car will be charged.&#xA;Download Mobile App Top-up your OhmJet balance Plug your car to charging station Read QR and calculate charge times Walk, Eat, Sleep and Go You will be able to use a contactless experience.</description>
     </item>
   </channel>
 </rss>
