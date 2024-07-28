@@ -20,7 +20,7 @@ For our own website https://ohmjet.com our team choosen HUGO as a main framework
 
 In sum we belief that HUGO is the fastest and professional pathway to have rapidly fast , beutiful and SEO optimized website. 
 
-# About [Clouflare] (#https://pages.cloudflare.com/)
+# About Clouflare 
 
 Before startinf this projesct we were not fimilar with CloudFlare pages. So for planty of developers it might be xtrange but we have never user CF for hosting. And when we tried it with HUGO it was amazing experience. 
 In couple clicks and terminal commands you are able to have hosted site arount 10 min. 
