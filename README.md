@@ -37,5 +37,14 @@ In addition we have had good experience with deploynebt and with ths servicing o
 
 # About Godaddy 
 
+As usual for domain registration our team ueses Goddady. Godaddy is the bigest one provider with the a lot of discount. 
+We registered our own domain https://ohmjet.com for 5$ and as you know each website starts from domain name. 
+It could be the first step in a buisness establishing. For us it works. Everytime when we start buisness from Brand Name, so your domain, as usual, is equal to the business name.
+
+
+# Step-by-step guide How to launch your website 
+Coming soon...
+
+
 
 
