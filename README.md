@@ -1,5 +1,6 @@
 # v.1.0
 OhmJet website powered by Hugo
+<img width="1264" alt="screenshot" src="https://github.com/user-attachments/assets/9b9bf4fc-8644-42d7-baed-c71184f468f5">
 
 # Intro
 
