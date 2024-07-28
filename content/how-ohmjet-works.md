@@ -38,7 +38,7 @@ We offer our host hardware, software, and full maintenance of charging stations.
 
 How to become a host:
 
-1. You should request your host account by filling out this [form](https://#)
+1. You should request your host account by filling out this [form](https://typebot.co/ohmjet)
 2. Recieve OhmJet's team final decision with buisness model offer
 3. Accept buisness model offer
 4. Wait for hardware delivery 
