@@ -1,4 +1,3 @@
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="2b41a0f4-1ef6-488d-b502-33d5e9c1324c" data-blockingmode="auto" type="text/javascript"></script>
 ---
 title: 'Homepage'
 meta_title: 'OhmJet | Residential EV Chargers '
