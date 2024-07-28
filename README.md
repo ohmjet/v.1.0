@@ -107,6 +107,51 @@ hugo server
 
 That is it for HUGO local machime setup. 
 
+3. For hosting we have used ClouFlare. We have choice between Github Pages and CloudFlare pages but CloudFlare works better for us. Because CF could cover everything that related security (SSL , Firewall) and analytic.
+You can compare Github pages and CF pages by following links : 
+
+https://pages.cloudflare.com/ 
+https://pages.github.com/ 
+
+To deploy your site to Pages: 
+
+a) Log in to the Cloudflare dashboard and select your account.
+b) In Account Home, select Workers & Pages > Create application > Pages > Connect to Git.
+c) Select the new GitHub repository that you created and, in the Set up builds and deployments section, provide the following information: 
+
+Production branch - 	main
+Build command	- hugo
+Build directory	- public
+
+Base URL configuration
+Hugo allows you to configure the baseURL of your application. This allows you to utilize the absURL helper to construct full canonical URLs. In order to do this with Pages, you must provide the -b or --baseURL flags with the CF_PAGES_URL environment variable to your hugo build command.
+
+Your final build command may look like this:
+
+```
+hugo -b $CF_PAGES_URL
+```
+
+d) After completing deployment configuration, select the Save and Deploy. You should see Cloudflare Pages installing hugo and your project dependencies, and building your site, before deploying it.
+   
+Congrats that is it. After deploying your site, you will receive a unique subdomain for your project on *.pages.dev. Every time you commit new code to your Hugo site, Cloudflare Pages will automatically rebuild your project and deploy it. You will also get access to preview deployments on new pull requests, so you can preview how changes look to your site before deploying them to production.
+
+
+# How to edit your Hugo site and deploy updates to CF pages and github 
+
+For files editiong we use Sublime Text https://www.sublimetext.com/   You can use aby other code/text editers but we love this one. 
+
+For send updates to server the most workable command list for us : 
+
+```
+git add .
+git commit -m "test"
+git pull --rebase origin main
+git push origin main
+
+```
+
+
 
 
 
